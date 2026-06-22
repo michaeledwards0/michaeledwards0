@@ -6,12 +6,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 ## 2. Key Projects
-Vulnerability Management Projects
+**Vulnerability Management Projects**
 
 - **[Vulnerability Management Program Implementation](https://github.com/michaeledwards0/vulnerability-management-program)**
 
 
-##  Threat Hunting and Security Operations
+  **Threat Hunting and Security Operations**
 
 
 
