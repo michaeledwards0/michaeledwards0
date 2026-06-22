@@ -25,7 +25,7 @@ My path into security isn't traditional. Years of experience in business systems
 
 | Certification | Status | Issuer | Link |
 |---|---|---|---|
-| CompTIA Security+ | ✅ Completed | CompTIA | [View Credential](https://www.credly.com/badges/your-badge-link) |
+| CompTIA Security+ | ✅ Completed | CompTIA | [View Credential](https://www.credly.com/badges/b6c98f84-acbd-4807-99c1-58646d1bf016/public_url) |
 | Microsoft AZ-900: Azure Fundamentals | 🔄 In Progress | Microsoft | — |
 | Microsoft SC-200: Security Operations Analyst Associate | 🔄 In Progress | Microsoft | — |
 
