@@ -37,7 +37,7 @@ My path into security isn't traditional. Years of experience in business systems
 
 ---
 
-## 🔵 [Vulnerability Management Program Implementation](./cases/vulnerability-management/README.md)
+## 🔵 [Vulnerability Management Program Implementation](https://github.com/michaeledwards0/vulnerability-management/blob/main/cases/vulnerability-management-program/README.md)
 
 Built a complete vulnerability management program from the ground up in an Azure lab environment — authored the policy, secured CISO signoff, ran credentialed Tenable scans across Windows servers, executed PowerShell-based remediation for critical and high findings, and stood up continuous scanning for ongoing monitoring. Covers the full lifecycle from policy authoring through post-remediation verification.
 
