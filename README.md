@@ -37,13 +37,13 @@ My path into security isn't traditional. Years of experience in business systems
 
 ---
 
-### 🔵 [Vulnerability Management Program Implementation](https://github.com/michaeledwards0/vulnerability-management)
+## 🔵 [Vulnerability Management Program Implementation](./cases/vulnerability-management-program/README.md)
 
-Built a complete vulnerability management lifecycle from the ground up inside an Azure lab environment — from initial discovery through remediation and verification. Used Tenable.io to scan Windows and Linux VMs across four cycles, applied CVSS-based risk prioritization, and drove critical vulnerabilities to zero. Remediation was automated using PowerShell and hardened against DISA STIG standards.
+Built a complete vulnerability management program from the ground up in an Azure lab environment — authored the policy, secured CISO signoff, ran credentialed Tenable scans across Windows servers, executed PowerShell-based remediation for critical and high findings, and stood up continuous scanning for ongoing monitoring. Covers the full lifecycle from policy authoring through post-remediation verification.
 
-**Highlights:** 100% critical reduction · 90% high reduction · 76% medium reduction across 4 scan cycles
+**Highlights:** Policy authored and signed off by CISO · Credentialed Tenable scans · PowerShell remediation of critical findings · SMB signing, RDP NLA, and LAN Manager hardening · Continuous scan configured
 
-`Tenable.io` `Azure VMs` `KQL` `PowerShell` `DISA STIG`
+`Tenable.io` `PowerShell` `Azure VMs` `Windows Server` `DISA STIG`
 
 ---
 
