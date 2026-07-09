@@ -37,7 +37,7 @@ My path into security isn't traditional. Years of experience in business systems
 
 ---
 
-### 🔵 [Secure AI Deployment on Azure](https://github.com/michaeledwards0/secure-ai-deployment-azure)
+### 🔵 [Secure AI Deployment on Azure](https://github.com/michaeledwards0/secure-ai-deployment-azure-)
 
 A self-directed, multi-phase build of a Zero Trust security architecture for a production Azure OpenAI workload — designed, deployed, defended, governed, and validated end-to-end in a personal Azure tenant. Structured across seven phases: identity, network isolation, AI workload deployment, governance, detection engineering, red team validation, and Infrastructure as Code.
 
