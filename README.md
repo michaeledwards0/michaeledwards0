@@ -1,7 +1,7 @@
 <div align="center">
 
 # Michael Edwards
-### Cybersecurity Professional | Vulnerability Management · Threat Hunting · Security Operations
+### Cloud Security Engineer | Azure · Zero Trust · Microsoft Sentinel · IAM | Building Secure AI Infrastructure
 
 *"Security isn't a product — it's a process. And I'm here to build it right."*
 
@@ -15,9 +15,9 @@
 
 ---
 
-I'm a cybersecurity professional with hands-on experience in vulnerability management, threat hunting, and security operations through the **LOG(N) Pacific Cyber Range**. My work spans Microsoft Sentinel, Defender for Endpoint, Tenable, and Azure — building detection workflows, closing exposure gaps, and responding to real attack scenarios in a live lab environment.
+I design and build secure cloud infrastructure on Microsoft Azure — with hands-on depth in identity, network isolation, governance, and detection engineering. My current focus is Zero Trust architecture for AI workloads, backed by real security operations experience through the **LOG(N) Pacific Cyber Range**, where I've worked inside Microsoft Sentinel, Defender for Endpoint, Tenable, and Azure across live investigation scenarios.
 
-My path into security isn't traditional. Years of experience in business systems and operations gave me something most junior analysts don't have: an understanding of how businesses actually work. That context shapes how I think about risk — not just what's vulnerable, but what matters most to protect.
+My path into security isn't traditional. Years of experience in business systems and operations gave me something most junior engineers don't have: an understanding of how businesses actually work. That context shapes how I think about risk — not just what's vulnerable, but what matters most to protect, and how to communicate that to non-technical stakeholders.
 
 ---
 
@@ -26,7 +26,7 @@ My path into security isn't traditional. Years of experience in business systems
 | Certification | Status | Issuer | Link |
 |---|---|---|---|
 | CompTIA Security+ | ✅ Completed | CompTIA | [View Credential](https://www.credly.com/badges/b6c98f84-acbd-4807-99c1-58646d1bf016/public_url) |
-| Microsoft AZ-104: Azure Administrator associate | 🔄 In Progress | Microsoft | — |
+| Microsoft AZ-104: Azure Administrator Associate | 🔄 In Progress | Microsoft | — |
 | Microsoft SC-500: Cloud and AI Security Engineering Associate | 🔄 In Progress | Microsoft | — |
 
 ---
@@ -37,7 +37,17 @@ My path into security isn't traditional. Years of experience in business systems
 
 ---
 
-## 🔵 [Vulnerability Management Program Implementation](https://github.com/michaeledwards0/vulnerability-management/blob/main/cases/vulnerability-management-program/README.md)
+### 🔵 [Secure AI Deployment on Azure](https://github.com/michaeledwards0/secure-ai-deployment-azure)
+
+A self-directed, multi-phase build of a Zero Trust security architecture for a production Azure OpenAI workload — designed, deployed, defended, governed, and validated end-to-end in a personal Azure tenant. Structured across seven phases: identity, network isolation, AI workload deployment, governance, detection engineering, red team validation, and Infrastructure as Code.
+
+**Highlights:** Zero Trust identity layer with PIM and risk-based Conditional Access · Hub-spoke network isolation with zero public IP exposure · Sentinel detection engineering · Bicep IaC · Full case study documentation per phase
+
+`Microsoft Entra ID` `Conditional Access` `PIM` `Azure Policy` `Microsoft Sentinel` `Bicep` `Zero Trust`
+
+---
+
+### 🟣 [Vulnerability Management Program Implementation](https://github.com/michaeledwards0/vulnerability-management/blob/main/cases/vulnerability-management-program/README.md)
 
 Built a complete vulnerability management program from the ground up in an Azure lab environment — authored the policy, secured CISO signoff, ran credentialed Tenable scans across Windows servers, executed PowerShell-based remediation for critical and high findings, and stood up continuous scanning for ongoing monitoring. Covers the full lifecycle from policy authoring through post-remediation verification.
 
@@ -65,14 +75,6 @@ Investigated malicious IP traffic and built geospatial threat visualizations usi
 
 ---
 
-### 🟡 AI Security *(Coming Soon)*
-
-Exploring how AI systems expand the enterprise attack surface — covering prompt injection, model abuse, and detection strategies for LLM-integrated environments.
-
-`In Development`
-
----
-
 ## 3. Additional Projects
 
 | Project | Description | Tools |
@@ -85,7 +87,7 @@ Exploring how AI systems expand the enterprise attack surface — covering promp
 
 ## 4. Connect With Me
 
-I'm actively looking for roles in **SOC Analysis**, **Vulnerability Management**, and **Security Operations**. Open to remote opportunities.
+I'm building toward Cloud Security Engineering — architecting Zero Trust environments, secure AI infrastructure, and cloud-native detection systems on Azure. Open to remote opportunities and always glad to connect with others working in the space.
 
 | | |
 |---|---|
@@ -99,7 +101,6 @@ I'm actively looking for roles in **SOC Analysis**, **Vulnerability Management**
 
 - 🔲 **Incident Response Scenario** — Simulating a corporate network slowdown caused by a port scan, with full detection and mitigation via PowerShell logging and Sentinel alerting
 - 🔲 **Phishing Email Analysis** — Dissecting real-world phishing attempts to build identification and triage playbooks
-- 🔲 **AI Security Lab** — Documenting prompt injection and LLM abuse techniques as they apply to enterprise security posture
 - 🔲 **Microsoft SC-200 Study Lab** — Documenting hands-on Sentinel and MDE configurations aligned to the SC-200 exam blueprint
 
 ---
@@ -108,9 +109,11 @@ I'm actively looking for roles in **SOC Analysis**, **Vulnerability Management**
 
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Defender for Endpoint](https://img.shields.io/badge/Defender%20for%20Endpoint-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Tenable](https://img.shields.io/badge/Tenable.io-00B388?style=flat-square&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Log Analytics](https://img.shields.io/badge/Log%20Analytics%20Workspaces-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure Policy](https://img.shields.io/badge/Azure%20Policy-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Azure Workbooks](https://img.shields.io/badge/Azure%20Workbooks-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 
@@ -120,6 +123,7 @@ I'm actively looking for roles in **SOC Analysis**, **Vulnerability Management**
 
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -128,6 +132,6 @@ I'm actively looking for roles in **SOC Analysis**, **Vulnerability Management**
 
 <div align="center">
 
-*Houston, TX · Open to remote security roles*
+*Houston, TX · Open to remote cloud security roles*
 
 </div>
