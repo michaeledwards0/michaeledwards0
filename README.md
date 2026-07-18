@@ -67,14 +67,6 @@ A collection of threat hunting engagements and incident response cases from the 
 
 ---
 
-### 🟢 [Log Visualization Maps](https://github.com/michaeledwards0/log-visualization)
-
-Investigated malicious IP traffic and built geospatial threat visualizations using KQL and Azure Workbook maps. Surfaced attacker infrastructure clusters, mapped attack origins, and documented the visualization process as a reusable detection template.
-
-`KQL` `Azure Workbooks` `Microsoft Sentinel`
-
----
-
 ## 3. Additional Projects
 
 | Project | Description | Tools |
