@@ -47,6 +47,18 @@ A self-directed, multi-phase build of a Zero Trust security architecture for a p
 
 ---
 
+### 🔷 [Enterprise Azure Application Platform](https://github.com/michaeledwards0/Enterprise-Azure-Application-Platform)
+
+A production-style Azure platform engineering project designed to demonstrate how cloud engineers build, automate, secure, monitor, and operate modern containerized workloads.
+
+The platform is being developed through structured workstreams covering the Azure landing zone, Terraform infrastructure deployment, hub-and-spoke networking, private connectivity, identity and secrets management, Azure Kubernetes Service, CI/CD, observability, resiliency, security governance, and day-two operations.
+
+**Highlights:** Terraform-based Azure deployment · Hub-and-spoke networking · Azure Kubernetes Service · Azure Container Registry · GitHub Actions CI/CD · Managed identities and Key Vault · Azure Monitor and Log Analytics · Python operational automation
+
+`Terraform` `Python` `Azure` `AKS` `Docker` `GitHub Actions` `Azure Monitor` `Key Vault`
+
+---
+
 ### 🟣 [Vulnerability Management Program Implementation](https://github.com/michaeledwards0/vulnerability-management/blob/main/cases/vulnerability-management-program/README.md)
 
 Built a complete vulnerability management program from the ground up in an Azure lab environment — authored the policy, secured CISO signoff, ran credentialed Tenable scans across Windows servers, executed PowerShell-based remediation for critical and high findings, and stood up continuous scanning for ongoing monitoring. Covers the full lifecycle from policy authoring through post-remediation verification.
