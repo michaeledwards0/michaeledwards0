@@ -26,7 +26,7 @@ My path into security isn't traditional. Years of experience in business systems
 | Certification | Status | Issuer | Link |
 |---|---|---|---|
 | CompTIA Security+ | ✅ Completed | CompTIA | [View Credential](https://www.credly.com/badges/b6c98f84-acbd-4807-99c1-58646d1bf016/public_url) |
-| Microsoft AZ-104: Azure Administrator Associate | ✅ Completed | Microsoft | https://learn.microsoft.com/api/credentials/share/en-us/MichaelEdwards-8961/B0C887E2303F5B68?sharingId=8E1F39AB30173450 |
+| Microsoft AZ-104: Azure Administrator Associate | ✅ Completed | Microsoft | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/MichaelEdwards-8961/B0C887E2303F5B68?sharingId=8E1F39AB30173450) |
 | Microsoft SC-500: Cloud and AI Security Engineering Associate | 🔄 In Progress | Microsoft | — |
 
 ---
