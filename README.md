@@ -37,16 +37,6 @@ My path into security isn't traditional. Years of experience in business systems
 
 ---
 
-### 🔵 [Enterprise Azure AI Infrastructure](https://github.com/michaeledwards0/secure-ai-deployment-azure-)
-
-A self-directed, multi-phase build of a Zero Trust security architecture for a production Azure OpenAI workload — designed, deployed, defended, governed, and validated end-to-end in a personal Azure tenant. Structured across seven phases: identity, network isolation, AI workload deployment, governance, detection engineering, red team validation, and Infrastructure as Code.
-
-**Highlights:** Zero Trust identity layer with PIM and risk-based Conditional Access · Hub-spoke network isolation with zero public IP exposure · Sentinel detection engineering · Bicep IaC · Full case study documentation per phase
-
-`Microsoft Entra ID` `Conditional Access` `PIM` `Azure Policy` `Microsoft Sentinel` `Bicep` `Zero Trust`
-
----
-
 ### 🔷 [Enterprise Azure Application Platform](https://github.com/michaeledwards0/Enterprise-Azure-Application-Platform)
 
 A production-style Azure platform engineering project designed to demonstrate how cloud engineers build, automate, secure, monitor, and operate modern containerized workloads.
@@ -55,7 +45,18 @@ The platform is being developed through structured workstreams covering the Azur
 
 **Highlights:** Terraform-based Azure deployment · Hub-and-spoke networking · Azure Kubernetes Service · Azure Container Registry · GitHub Actions CI/CD · Managed identities and Key Vault · Azure Monitor and Log Analytics · Python operational automation
 
-`Terraform` `Python` `Azure` `AKS` `Docker` `GitHub Actions` `Azure Monitor` `Key Vault`
+`Terraform` `Python` `Azure` `AKS` `Docker` `GitHub Actions` `Azure Monitor` `Key Vault
+
+---
+
+
+### 🔵 [Enterprise Azure AI Infrastructure](https://github.com/michaeledwards0/secure-ai-deployment-azure-)
+
+A self-directed, multi-phase build of a Zero Trust security architecture for a production Azure OpenAI workload — designed, deployed, defended, governed, and validated end-to-end in a personal Azure tenant. Structured across seven phases: identity, network isolation, AI workload deployment, governance, detection engineering, red team validation, and Infrastructure as Code.
+
+**Highlights:** Zero Trust identity layer with PIM and risk-based Conditional Access · Hub-spoke network isolation with zero public IP exposure · Sentinel detection engineering · Bicep IaC · Full case study documentation per phase
+
+`Microsoft Entra ID` `Conditional Access` `PIM` `Azure Policy` `Microsoft Sentinel` `Bicep` `Zero Trust`
 
 ---
 
