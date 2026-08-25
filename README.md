@@ -1,7 +1,7 @@
 <div align="center">
 
 # Michael Edwards
-### Cloud Security Engineer | Azure · Zero Trust · Microsoft Sentinel · IAM | Building Secure AI Infrastructure
+### Azure Platform and Infrastructure Engineer  | Azure · Zero Trust · Microsoft Sentinel · IAM | Building Secure AI Infrastructure
 
 *"Security isn't a product — it's a process. And I'm here to build it right."*
 
