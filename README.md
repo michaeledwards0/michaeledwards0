@@ -137,6 +137,6 @@ I'm building toward Cloud Security Engineering — architecting Zero Trust envir
 
 <div align="center">
 
-*Houston, TX · Open to remote cloud security roles*
+*Houston, TX · Open to remote Azure platform and cloud engineering roles*
 
 </div>
